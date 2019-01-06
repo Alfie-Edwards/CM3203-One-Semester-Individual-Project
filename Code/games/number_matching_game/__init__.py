@@ -1,0 +1,3 @@
+from .number_matching_game_adapter_one_player import NumberMatchingGameAdapter
+from .number_matching_game_adapter_two_player import TwoPlayerNumberMatchingGameAdapter
+from .model import NumberMatchingGameModel
